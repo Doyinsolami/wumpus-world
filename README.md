@@ -46,7 +46,7 @@ Run the simulator:
 ```bash
 python wumpus.py
 ```
-### Acknowledgements
+#### Acknowledgements
 Developed by Doyinsola Oduwole
 
 AI debugging and algorithm refinement assisted by ChatGPT
